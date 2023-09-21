@@ -1,0 +1,8 @@
+name = "SolarDynamoModel"
+uuid = "380ce296-e346-4120-9d7f-4bdd7af2d5d8"
+authors = ["carloalbert <carlo.albert@eawag.ch>"]
+version = "0.1.0"
+
+[deps]
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+StochasticDelayDiffEq = "29a0d76e-afc8-11e9-03a4-eda52ae4b960"
